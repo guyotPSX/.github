@@ -4,6 +4,7 @@
 
 <p float="left">
 
-  GuyotJS with Playstation being shipped out.<br/>
-  The Main github is [Here](https://github.com/guyotJs)
+  GuyotJS with Public Server X live hosting of true link.<br/>
+  The Main github is [Here](https://github.com/guyotJs)<br/>
+  The Main link is now [https://guyotjs.org](https://guyotjs.org)
 </p>
